@@ -8,7 +8,7 @@
   "server": {
     "ip": "ucdt.aternos.me",
     "port": 13434,
-    "version": "26.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
